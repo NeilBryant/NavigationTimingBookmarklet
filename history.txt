@@ -1,0 +1,9 @@
+< Nov 19, 2015
+
+This is a simple bookmarket that allows you to visualize the W3C Navigation Timing data that is captured in modern browsers.
+
+http://yottaa.github.com/NavigationTimingBookmarklet/prototype/index.html
+
+Nov 19, 2015
+
+Forked by Neil Bryant
